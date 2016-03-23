@@ -1,4 +1,3 @@
-
 Logins - You will need to set yourself up for 3 different logins if you do not already have them.
 
 1) OpenStack - This is who we are! You will need to sign up as a Foundation Member and
